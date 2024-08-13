@@ -1,0 +1,35 @@
+.container{
+    width: 100%;
+    padding: 5px;
+}
+section{
+    display: inline-block;
+}
+img,h3,p{
+    width: 200px;
+    height: auto;
+}
+#yash{
+    /* margin: 30px; */
+    vertical-align: top;
+    
+}
+#yashh{
+    
+    vertical-align: top;
+    
+}
+#hi{
+    /* margin-left: 800px; */
+    vertical-align: top;
+    
+}
+#hlo{
+    /* margin-left: 1200px; */
+    vertical-align: top;
+    
+}
+*{
+    text-align: center;
+    padding: 20px;
+}
